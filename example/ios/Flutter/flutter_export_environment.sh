@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
-export "FLUTTER_ROOT=/home/cr1sg/snap/flutter/common/flutter"
-export "FLUTTER_APPLICATION_PATH=/home/cr1sg/Projects/utils/month_picker_dialog/example"
+export "FLUTTER_ROOT=/home/clapton/snap/flutter/common/flutter"
+export "FLUTTER_APPLICATION_PATH=/home/clapton/Projects/FlutterProjects/month_picker_dialog-1/example"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_TARGET=lib/main.dart"
 export "FLUTTER_BUILD_DIR=build"
